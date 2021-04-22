@@ -1,0 +1,43 @@
+
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(É¹›Éúÿÿÿÿ8Ñ½•É/
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8Ñ½•É/
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(Ïé‡ø8Ñ½•É/
+N
+java:S1612P",Replace this lambda with a method reference.(ÿÓé¹ûÿÿÿÿ8ù©ÆÊ/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8Ñ½•É/
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ÙÏ¾Õ8Ñ½•É/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(œè²Áüÿÿÿÿ8Ã›‹Ê/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(­³ÁÕşÿÿÿÿ8Ñ½•É/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(èˆÇŠüÿÿÿÿ8¦à‰Ê/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ƒä…üÿÿÿÿ8óæóÉ/
+X	java:S125U"<This block of commented-out lines of code should be removed.(ÄÂ‚ş8š§É/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(£™‚õ8Ñ½•É/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8Ñ½•É/
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ñ½•É/
+n
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(¢áç8Ñ½•É/
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(€İä°8Ñ½•É/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(•£Ÿ’8Ñ½•É/
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(™¥¯Ğùÿÿÿÿ8ÖÁ„Œ/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(îğ˜Ã8Ñ½•É/
+x
+java:S42760"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ûø´„8Ñ½•É/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(«µ¾³üÿÿÿÿ8Ñ½•É/
+I
+java:S16024",Remove useless curly braces around statement(Éò±”8Ñ½•É/
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ñ½•É/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(§‡ßÊøÿÿÿÿ8Ñ½•É/
+^
+java:S1126}"AReplace this if-then-else statement by a single return statement.(Æ‚¼•8Ñ½•É/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(š‰Ú˜8øáÈÊ/
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(ŠéÕÉüÿÿÿÿ8Ñ½•É/
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8èİ…Œ/
+]	java:S125%"<This block of commented-out lines of code should be removed.(ô¾¼Ãÿÿÿÿÿ8×¼áØŒ/
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(‚ƒÙ•8Ñ½•É/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(€ş¤8Ñ½•É/
+E
+java:S1604\"(Make this anonymous inner class a lambda(ì¬ƒİ8Ñ½•É/
+I
+java:S1612Q",Replace this lambda with a method reference.(š‰Ú˜8øáÈÊ/
+D
+java:S1604z"(Make this anonymous inner class a lambda(»äÓ8Ñ½•É/
